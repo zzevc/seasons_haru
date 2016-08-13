@@ -98,8 +98,8 @@
 				<dur>225</dur>
 				<n>60</n>
 				<v>64</v>
-				<y><![CDATA[a]]></y>
-				<p><![CDATA[a]]></p>
+				<y><![CDATA[zhi]]></y>
+				<p><![CDATA[ts` i`]]></p>
 				<nStyle>
 					<v id="accent">50</v>
 					<v id="bendDep">8</v>
@@ -117,8 +117,8 @@
 				<dur>225</dur>
 				<n>55</n>
 				<v>64</v>
-				<y><![CDATA[a]]></y>
-				<p><![CDATA[a]]></p>
+				<y><![CDATA[tiao]]></y>
+				<p><![CDATA[t_h iAU]]></p>
 				<nStyle>
 					<v id="accent">50</v>
 					<v id="bendDep">8</v>
@@ -136,8 +136,8 @@
 				<dur>225</dur>
 				<n>60</n>
 				<v>64</v>
-				<y><![CDATA[a]]></y>
-				<p><![CDATA[a]]></p>
+				<y><![CDATA[chui]]></y>
+				<p><![CDATA[ts`_h uei]]></p>
 				<nStyle>
 					<v id="accent">50</v>
 					<v id="bendDep">8</v>
@@ -155,8 +155,8 @@
 				<dur>225</dur>
 				<n>62</n>
 				<v>64</v>
-				<y><![CDATA[a]]></y>
-				<p><![CDATA[a]]></p>
+				<y><![CDATA[liu]]></y>
+				<p><![CDATA[l i@U]]></p>
 				<nStyle>
 					<v id="accent">50</v>
 					<v id="bendDep">8</v>
@@ -174,8 +174,8 @@
 				<dur>225</dur>
 				<n>62</n>
 				<v>64</v>
-				<y><![CDATA[a]]></y>
-				<p><![CDATA[a]]></p>
+				<y><![CDATA[bi]]></y>
+				<p><![CDATA[p i]]></p>
 				<nStyle>
 					<v id="accent">50</v>
 					<v id="bendDep">8</v>
@@ -193,8 +193,8 @@
 				<dur>225</dur>
 				<n>64</n>
 				<v>64</v>
-				<y><![CDATA[a]]></y>
-				<p><![CDATA[a]]></p>
+				<y><![CDATA[bo]]></y>
+				<p><![CDATA[p o]]></p>
 				<nStyle>
 					<v id="accent">50</v>
 					<v id="bendDep">8</v>
@@ -212,8 +212,8 @@
 				<dur>465</dur>
 				<n>67</n>
 				<v>64</v>
-				<y><![CDATA[a]]></y>
-				<p><![CDATA[a]]></p>
+				<y><![CDATA[shui]]></y>
+				<p><![CDATA[s` uei]]></p>
 				<nStyle>
 					<v id="accent">50</v>
 					<v id="bendDep">8</v>
@@ -1872,7 +1872,7 @@
 			</note>
 			<note>
 				<t>31215</t>
-				<dur>235</dur>
+				<dur>225</dur>
 				<n>65</n>
 				<v>64</v>
 				<y><![CDATA[a]]></y>
@@ -4718,7 +4718,7 @@
 			</note>
 			<note>
 				<t>79215</t>
-				<dur>235</dur>
+				<dur>225</dur>
 				<n>64</n>
 				<v>64</v>
 				<y><![CDATA[a]]></y>
@@ -6084,7 +6084,7 @@
 			</note>
 			<note>
 				<t>103215</t>
-				<dur>235</dur>
+				<dur>225</dur>
 				<n>64</n>
 				<v>64</v>
 				<y><![CDATA[a]]></y>
