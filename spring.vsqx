@@ -95,9 +95,9 @@
 			<cc><t>122885</t><v id="S">12</v></cc>
 			<note>
 				<t>3840</t>
-				<dur>225</dur>
+				<dur>240</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>100</v>
 				<y><![CDATA[zhi]]></y>
 				<p><![CDATA[ts` i`]]></p>
 				<nStyle>
@@ -114,7 +114,7 @@
 			</note>
 			<note>
 				<t>4080</t>
-				<dur>225</dur>
+				<dur>240</dur>
 				<n>55</n>
 				<v>64</v>
 				<y><![CDATA[tiao]]></y>
@@ -133,7 +133,7 @@
 			</note>
 			<note>
 				<t>4320</t>
-				<dur>225</dur>
+				<dur>240</dur>
 				<n>60</n>
 				<v>64</v>
 				<y><![CDATA[chui]]></y>
@@ -152,7 +152,7 @@
 			</note>
 			<note>
 				<t>4560</t>
-				<dur>225</dur>
+				<dur>240</dur>
 				<n>62</n>
 				<v>64</v>
 				<y><![CDATA[liu]]></y>
