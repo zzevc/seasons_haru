@@ -120,20 +120,20 @@
 				<y><![CDATA[zhi]]></y>
 				<p><![CDATA[ts` i`]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
 					<v id="vibLen">55</v>
 					<v id="vibType">13</v>
 					<seq id="vibDep">
-						<cc><p>29218</p><v>64</v></cc>
+						<cc><p>29491</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>29218</p><v>64</v></cc>
+						<cc><p>29491</p><v>64</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -145,20 +145,20 @@
 				<y><![CDATA[tiao]]></y>
 				<p><![CDATA[t_h iAU]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
 					<v id="vibLen">55</v>
 					<v id="vibType">14</v>
 					<seq id="vibDep">
-						<cc><p>29218</p><v>40</v></cc>
+						<cc><p>29491</p><v>40</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>29218</p><v>64</v></cc>
+						<cc><p>29491</p><v>64</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -170,20 +170,20 @@
 				<y><![CDATA[chui]]></y>
 				<p><![CDATA[ts`_h uei]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
 					<v id="vibLen">55</v>
 					<v id="vibType">13</v>
 					<seq id="vibDep">
-						<cc><p>29218</p><v>64</v></cc>
+						<cc><p>29491</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>29218</p><v>64</v></cc>
+						<cc><p>29491</p><v>64</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -195,20 +195,20 @@
 				<y><![CDATA[liu]]></y>
 				<p><![CDATA[l i@U]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
 					<v id="vibLen">55</v>
 					<v id="vibType">15</v>
 					<seq id="vibDep">
-						<cc><p>29218</p><v>72</v></cc>
+						<cc><p>29491</p><v>72</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>29218</p><v>64</v></cc>
+						<cc><p>29491</p><v>64</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -220,20 +220,20 @@
 				<y><![CDATA[bi]]></y>
 				<p><![CDATA[p i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
 					<v id="vibLen">55</v>
 					<v id="vibType">13</v>
 					<seq id="vibDep">
-						<cc><p>29418</p><v>64</v></cc>
+						<cc><p>29709</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>29418</p><v>64</v></cc>
+						<cc><p>29709</p><v>64</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -245,20 +245,20 @@
 				<y><![CDATA[bo]]></y>
 				<p><![CDATA[p o]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
 					<v id="vibLen">55</v>
 					<v id="vibType">15</v>
 					<seq id="vibDep">
-						<cc><p>29418</p><v>72</v></cc>
+						<cc><p>29709</p><v>72</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>29418</p><v>64</v></cc>
+						<cc><p>29709</p><v>64</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -270,17 +270,17 @@
 				<y><![CDATA[shui]]></y>
 				<p><![CDATA[s` uei]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
 					<v id="vibLen">55</v>
 					<v id="vibType">16</v>
 					<seq id="vibDep">
-						<cc><p>29174</p><v>64</v></cc>
+						<cc><p>29596</p><v>64</v></cc>
 						<cc><p>50918</p><v>64</v></cc>
 						<cc><p>51274</p><v>63</v></cc>
 						<cc><p>51391</p><v>62</v></cc>
@@ -340,7 +340,7 @@
 						<cc><p>65532</p><v>0</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>29174</p><v>64</v></cc>
+						<cc><p>29596</p><v>64</v></cc>
 						<cc><p>50918</p><v>64</v></cc>
 						<cc><p>51274</p><v>63</v></cc>
 						<cc><p>51391</p><v>62</v></cc>
@@ -409,15 +409,21 @@
 				<y><![CDATA[hua]]></y>
 				<p><![CDATA[x ua]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">48</v>
+					<v id="vibType">13</v>
+					<seq id="vibDep">
+						<cc><p>33496</p><v>64</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>33496</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
@@ -428,15 +434,21 @@
 				<y><![CDATA[cong]]></y>
 				<p><![CDATA[ts_h UN]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">49</v>
+					<v id="vibType">14</v>
+					<seq id="vibDep">
+						<cc><p>32913</p><v>40</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>32913</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
@@ -447,15 +459,21 @@
 				<y><![CDATA[han]]></y>
 				<p><![CDATA[x a_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">49</v>
+					<v id="vibType">13</v>
+					<seq id="vibDep">
+						<cc><p>32913</p><v>64</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>32913</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
@@ -466,15 +484,21 @@
 				<y><![CDATA[bao]]></y>
 				<p><![CDATA[p AU]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">49</v>
+					<v id="vibType">14</v>
+					<seq id="vibDep">
+						<cc><p>32913</p><v>40</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>32913</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
@@ -485,15 +509,21 @@
 				<y><![CDATA[tu]]></y>
 				<p><![CDATA[t_h u]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">49</v>
+					<v id="vibType">13</v>
+					<seq id="vibDep">
+						<cc><p>32913</p><v>64</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>32913</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
@@ -504,15 +534,21 @@
 				<y><![CDATA[bei]]></y>
 				<p><![CDATA[p ei]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">49</v>
+					<v id="vibType">15</v>
+					<seq id="vibDep">
+						<cc><p>32913</p><v>72</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>32913</p><v>64</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
@@ -523,15 +559,99 @@
 				<y><![CDATA[lei]]></y>
 				<p><![CDATA[l ei]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
-					<v id="vibLen">0</v>
-					<v id="vibType">0</v>
+					<v id="vibLen">49</v>
+					<v id="vibType">16</v>
+					<seq id="vibDep">
+						<cc><p>32893</p><v>64</v></cc>
+						<cc><p>52730</p><v>64</v></cc>
+						<cc><p>52981</p><v>62</v></cc>
+						<cc><p>53233</p><v>59</v></cc>
+						<cc><p>53484</p><v>58</v></cc>
+						<cc><p>53735</p><v>56</v></cc>
+						<cc><p>53987</p><v>55</v></cc>
+						<cc><p>54235</p><v>54</v></cc>
+						<cc><p>54486</p><v>52</v></cc>
+						<cc><p>54737</p><v>50</v></cc>
+						<cc><p>54989</p><v>48</v></cc>
+						<cc><p>55240</p><v>47</v></cc>
+						<cc><p>55491</p><v>44</v></cc>
+						<cc><p>55994</p><v>42</v></cc>
+						<cc><p>56245</p><v>40</v></cc>
+						<cc><p>56497</p><v>38</v></cc>
+						<cc><p>56748</p><v>37</v></cc>
+						<cc><p>56999</p><v>35</v></cc>
+						<cc><p>57251</p><v>34</v></cc>
+						<cc><p>57499</p><v>32</v></cc>
+						<cc><p>57750</p><v>30</v></cc>
+						<cc><p>58002</p><v>28</v></cc>
+						<cc><p>58253</p><v>27</v></cc>
+						<cc><p>58504</p><v>25</v></cc>
+						<cc><p>58756</p><v>23</v></cc>
+						<cc><p>59007</p><v>22</v></cc>
+						<cc><p>59258</p><v>20</v></cc>
+						<cc><p>59510</p><v>19</v></cc>
+						<cc><p>59761</p><v>17</v></cc>
+						<cc><p>60012</p><v>15</v></cc>
+						<cc><p>60264</p><v>13</v></cc>
+						<cc><p>60515</p><v>12</v></cc>
+						<cc><p>60763</p><v>10</v></cc>
+						<cc><p>61015</p><v>8</v></cc>
+						<cc><p>61266</p><v>7</v></cc>
+						<cc><p>61517</p><v>5</v></cc>
+						<cc><p>61769</p><v>3</v></cc>
+						<cc><p>62020</p><v>1</v></cc>
+						<cc><p>62271</p><v>0</v></cc>
+						<cc><p>65536</p><v>0</v></cc>
+					</seq>
+					<seq id="vibRate">
+						<cc><p>32893</p><v>64</v></cc>
+						<cc><p>52730</p><v>64</v></cc>
+						<cc><p>52981</p><v>62</v></cc>
+						<cc><p>53233</p><v>59</v></cc>
+						<cc><p>53484</p><v>58</v></cc>
+						<cc><p>53735</p><v>56</v></cc>
+						<cc><p>53987</p><v>55</v></cc>
+						<cc><p>54235</p><v>54</v></cc>
+						<cc><p>54486</p><v>52</v></cc>
+						<cc><p>54737</p><v>50</v></cc>
+						<cc><p>54989</p><v>48</v></cc>
+						<cc><p>55240</p><v>47</v></cc>
+						<cc><p>55491</p><v>44</v></cc>
+						<cc><p>55994</p><v>42</v></cc>
+						<cc><p>56245</p><v>40</v></cc>
+						<cc><p>56497</p><v>38</v></cc>
+						<cc><p>56748</p><v>37</v></cc>
+						<cc><p>56999</p><v>35</v></cc>
+						<cc><p>57251</p><v>34</v></cc>
+						<cc><p>57499</p><v>32</v></cc>
+						<cc><p>57750</p><v>30</v></cc>
+						<cc><p>58002</p><v>28</v></cc>
+						<cc><p>58253</p><v>27</v></cc>
+						<cc><p>58504</p><v>25</v></cc>
+						<cc><p>58756</p><v>23</v></cc>
+						<cc><p>59007</p><v>22</v></cc>
+						<cc><p>59258</p><v>20</v></cc>
+						<cc><p>59510</p><v>19</v></cc>
+						<cc><p>59761</p><v>17</v></cc>
+						<cc><p>60012</p><v>15</v></cc>
+						<cc><p>60264</p><v>13</v></cc>
+						<cc><p>60515</p><v>12</v></cc>
+						<cc><p>60763</p><v>10</v></cc>
+						<cc><p>61015</p><v>8</v></cc>
+						<cc><p>61266</p><v>7</v></cc>
+						<cc><p>61517</p><v>5</v></cc>
+						<cc><p>61769</p><v>3</v></cc>
+						<cc><p>62020</p><v>1</v></cc>
+						<cc><p>62271</p><v>0</v></cc>
+						<cc><p>65536</p><v>0</v></cc>
+					</seq>
 				</nStyle>
 			</note>
 			<note>
@@ -542,10 +662,10 @@
 				<y><![CDATA[na]]></y>
 				<p><![CDATA[n a]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -561,10 +681,10 @@
 				<y><![CDATA[shi]]></y>
 				<p><![CDATA[s` i`]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -580,10 +700,10 @@
 				<y><![CDATA[xu]]></y>
 				<p><![CDATA[s\ y]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -599,10 +719,10 @@
 				<y><![CDATA[xia]]></y>
 				<p><![CDATA[s\ ia]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -618,10 +738,10 @@
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -637,10 +757,10 @@
 				<y><![CDATA[yue]]></y>
 				<p><![CDATA[yE_r]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -656,10 +776,10 @@
 				<y><![CDATA[ding]]></y>
 				<p><![CDATA[t iN]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -675,10 +795,10 @@
 				<y><![CDATA[que]]></y>
 				<p><![CDATA[ts\_h yE_r]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -694,10 +814,10 @@
 				<y><![CDATA[ru]]></y>
 				<p><![CDATA[z` u]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -713,10 +833,10 @@
 				<y><![CDATA[guo]]></y>
 				<p><![CDATA[k uo]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -732,10 +852,10 @@
 				<y><![CDATA[wang]]></y>
 				<p><![CDATA[uAN]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -751,10 +871,10 @@
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -770,10 +890,10 @@
 				<y><![CDATA[yun]]></y>
 				<p><![CDATA[y_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -789,10 +909,10 @@
 				<y><![CDATA[yan]]></y>
 				<p><![CDATA[iE_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -808,10 +928,10 @@
 				<y><![CDATA[ni]]></y>
 				<p><![CDATA[n i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -827,10 +947,10 @@
 				<y><![CDATA[yi]]></y>
 				<p><![CDATA[i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -846,10 +966,10 @@
 				<y><![CDATA[bei]]></y>
 				<p><![CDATA[p ei]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -865,10 +985,10 @@
 				<y><![CDATA[jing]]></y>
 				<p><![CDATA[ts\ iN]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -884,10 +1004,10 @@
 				<y><![CDATA[li]]></y>
 				<p><![CDATA[l i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -903,10 +1023,10 @@
 				<y><![CDATA[kai]]></y>
 				<p><![CDATA[k_h aI]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -922,10 +1042,10 @@
 				<y><![CDATA[le]]></y>
 				<p><![CDATA[l 7]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -941,10 +1061,10 @@
 				<y><![CDATA[jia]]></y>
 				<p><![CDATA[ts\ ia]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -960,10 +1080,10 @@
 				<y><![CDATA[xiang]]></y>
 				<p><![CDATA[s\ iAN]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -979,10 +1099,10 @@
 				<y><![CDATA[bu]]></y>
 				<p><![CDATA[p u]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -998,10 +1118,10 @@
 				<y><![CDATA[zhi]]></y>
 				<p><![CDATA[ts` i`]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1017,10 +1137,10 @@
 				<y><![CDATA[duo]]></y>
 				<p><![CDATA[t uo]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1036,10 +1156,10 @@
 				<y><![CDATA[shao]]></y>
 				<p><![CDATA[s` AU]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1055,10 +1175,10 @@
 				<y><![CDATA[nian]]></y>
 				<p><![CDATA[n iE_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1080,10 +1200,10 @@
 				<y><![CDATA[chun]]></y>
 				<p><![CDATA[ts`_h u@_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1099,10 +1219,10 @@
 				<y><![CDATA[yu]]></y>
 				<p><![CDATA[y]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1118,10 +1238,10 @@
 				<y><![CDATA[zhong]]></y>
 				<p><![CDATA[ts` UN]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1137,10 +1257,10 @@
 				<y><![CDATA[meng]]></y>
 				<p><![CDATA[m @N]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1156,10 +1276,10 @@
 				<y><![CDATA[fa]]></y>
 				<p><![CDATA[f a]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1175,10 +1295,10 @@
 				<y><![CDATA[wo]]></y>
 				<p><![CDATA[uo]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1194,10 +1314,10 @@
 				<y><![CDATA[dui]]></y>
 				<p><![CDATA[t uei]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1213,10 +1333,10 @@
 				<y><![CDATA[ni]]></y>
 				<p><![CDATA[n i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1232,10 +1352,10 @@
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1251,10 +1371,10 @@
 				<y><![CDATA[si]]></y>
 				<p><![CDATA[s i\]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1270,10 +1390,10 @@
 				<y><![CDATA[nian]]></y>
 				<p><![CDATA[n iE_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1295,10 +1415,10 @@
 				<y><![CDATA[ni]]></y>
 				<p><![CDATA[n i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1314,10 +1434,10 @@
 				<y><![CDATA[yi]]></y>
 				<p><![CDATA[i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1333,10 +1453,10 @@
 				<y><![CDATA[qu]]></y>
 				<p><![CDATA[ts\_h y]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1352,10 +1472,10 @@
 				<y><![CDATA[le]]></y>
 				<p><![CDATA[l 7]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1371,10 +1491,10 @@
 				<y><![CDATA[tian]]></y>
 				<p><![CDATA[t_h iE_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1390,10 +1510,10 @@
 				<y><![CDATA[bian]]></y>
 				<p><![CDATA[p iE_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1415,10 +1535,10 @@
 				<y><![CDATA[zai]]></y>
 				<p><![CDATA[ts aI]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1434,10 +1554,10 @@
 				<y><![CDATA[ye]]></y>
 				<p><![CDATA[iE_r]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1453,10 +1573,10 @@
 				<y><![CDATA[kan]]></y>
 				<p><![CDATA[k_h a_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1472,10 +1592,10 @@
 				<y><![CDATA[bu]]></y>
 				<p><![CDATA[p u]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1491,10 +1611,10 @@
 				<y><![CDATA[jian]]></y>
 				<p><![CDATA[ts\ iE_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1517,9 +1637,9 @@
 				<p><![CDATA[t_h UN]]></p>
 				<nStyle>
 					<v id="accent">5</v>
-					<v id="bendDep">8</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">15</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1535,10 +1655,10 @@
 				<y><![CDATA[zhi]]></y>
 				<p><![CDATA[ts` i`]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1554,10 +1674,10 @@
 				<y><![CDATA[tiao]]></y>
 				<p><![CDATA[t_h iAU]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1573,10 +1693,10 @@
 				<y><![CDATA[yi]]></y>
 				<p><![CDATA[i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1592,10 +1712,10 @@
 				<y><![CDATA[tong]]></y>
 				<p><![CDATA[t_h UN]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1611,10 +1731,10 @@
 				<y><![CDATA[chui]]></y>
 				<p><![CDATA[ts`_h uei]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1630,10 +1750,10 @@
 				<y><![CDATA[xia]]></y>
 				<p><![CDATA[s\ ia]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1655,10 +1775,10 @@
 				<y><![CDATA[fa]]></y>
 				<p><![CDATA[f a]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1674,10 +1794,10 @@
 				<y><![CDATA[ji]]></y>
 				<p><![CDATA[ts\ i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1693,10 +1813,10 @@
 				<y><![CDATA[le]]></y>
 				<p><![CDATA[l 7]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1712,10 +1832,10 @@
 				<y><![CDATA[yao]]></y>
 				<p><![CDATA[iAU]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1731,10 +1851,10 @@
 				<y><![CDATA[jian]]></y>
 				<p><![CDATA[ts\ iE_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1756,10 +1876,10 @@
 				<y><![CDATA[zhi]]></y>
 				<p><![CDATA[ts` i`]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1775,10 +1895,10 @@
 				<y><![CDATA[shi]]></y>
 				<p><![CDATA[s` i`]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1794,10 +1914,10 @@
 				<y><![CDATA[yi]]></y>
 				<p><![CDATA[i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1813,10 +1933,10 @@
 				<y><![CDATA[wu]]></y>
 				<p><![CDATA[u]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1832,10 +1952,10 @@
 				<y><![CDATA[shi]]></y>
 				<p><![CDATA[s` i`]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1851,10 +1971,10 @@
 				<y><![CDATA[ren]]></y>
 				<p><![CDATA[z` @_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1870,10 +1990,10 @@
 				<y><![CDATA[fei]]></y>
 				<p><![CDATA[f ei]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1895,10 +2015,10 @@
 				<y><![CDATA[luo]]></y>
 				<p><![CDATA[l uo]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1914,10 +2034,10 @@
 				<y><![CDATA[xiu]]></y>
 				<p><![CDATA[s\ i@U]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1933,10 +2053,10 @@
 				<y><![CDATA[hong]]></y>
 				<p><![CDATA[x UN]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1952,10 +2072,10 @@
 				<y><![CDATA[zhuang]]></y>
 				<p><![CDATA[ts` uAN]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1971,10 +2091,10 @@
 				<y><![CDATA[yan]]></y>
 				<p><![CDATA[iE_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -1996,10 +2116,10 @@
 				<y><![CDATA[que]]></y>
 				<p><![CDATA[ts\_h yE_r]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2015,10 +2135,10 @@
 				<y><![CDATA[-]]></y>
 				<p><![CDATA[-]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2034,10 +2154,10 @@
 				<y><![CDATA[deng]]></y>
 				<p><![CDATA[t @N]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2053,10 +2173,10 @@
 				<y><![CDATA[bu]]></y>
 				<p><![CDATA[p u]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2072,10 +2192,10 @@
 				<y><![CDATA[dao]]></y>
 				<p><![CDATA[t AU]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2091,10 +2211,10 @@
 				<y><![CDATA[tuan]]></y>
 				<p><![CDATA[t_h ua_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2110,10 +2230,10 @@
 				<y><![CDATA[ju]]></y>
 				<p><![CDATA[ts\ y]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2129,10 +2249,10 @@
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2148,10 +2268,10 @@
 				<y><![CDATA[na]]></y>
 				<p><![CDATA[n a]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2167,10 +2287,10 @@
 				<y><![CDATA[yi]]></y>
 				<p><![CDATA[i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2186,10 +2306,10 @@
 				<y><![CDATA[tian]]></y>
 				<p><![CDATA[t_h iE_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2211,10 +2331,10 @@
 				<y><![CDATA[ni]]></y>
 				<p><![CDATA[n i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2230,10 +2350,10 @@
 				<y><![CDATA[shi]]></y>
 				<p><![CDATA[s` i`]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2249,10 +2369,10 @@
 				<y><![CDATA[fou]]></y>
 				<p><![CDATA[f @U]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2268,10 +2388,10 @@
 				<y><![CDATA[hai]]></y>
 				<p><![CDATA[x aI]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2287,10 +2407,10 @@
 				<y><![CDATA[zai]]></y>
 				<p><![CDATA[ts aI]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2306,10 +2426,10 @@
 				<y><![CDATA[gua]]></y>
 				<p><![CDATA[k ua]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2325,10 +2445,10 @@
 				<y><![CDATA[-]]></y>
 				<p><![CDATA[-]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2344,10 +2464,10 @@
 				<y><![CDATA[nian]]></y>
 				<p><![CDATA[n iE_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2369,10 +2489,10 @@
 				<y><![CDATA[na]]></y>
 				<p><![CDATA[n a]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2388,10 +2508,10 @@
 				<y><![CDATA[pian]]></y>
 				<p><![CDATA[p_h iE_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2407,10 +2527,10 @@
 				<y><![CDATA[hua]]></y>
 				<p><![CDATA[x ua]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2426,10 +2546,10 @@
 				<y><![CDATA[-]]></y>
 				<p><![CDATA[-]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2445,10 +2565,10 @@
 				<y><![CDATA[tian]]></y>
 				<p><![CDATA[t_h iE_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2464,10 +2584,10 @@
 				<y><![CDATA[hai]]></y>
 				<p><![CDATA[x aI]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2483,10 +2603,10 @@
 				<y><![CDATA[you]]></y>
 				<p><![CDATA[i@U]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2502,10 +2622,10 @@
 				<y><![CDATA[yi]]></y>
 				<p><![CDATA[i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2521,10 +2641,10 @@
 				<y><![CDATA[tong]]></y>
 				<p><![CDATA[t_h UN]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2540,10 +2660,10 @@
 				<y><![CDATA[du]]></y>
 				<p><![CDATA[t u]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2559,10 +2679,10 @@
 				<y><![CDATA[guo]]></y>
 				<p><![CDATA[k uo]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2578,10 +2698,10 @@
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2597,10 +2717,10 @@
 				<y><![CDATA[na]]></y>
 				<p><![CDATA[n a]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2616,10 +2736,10 @@
 				<y><![CDATA[xie]]></y>
 				<p><![CDATA[s\ iE_r]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2635,10 +2755,10 @@
 				<y><![CDATA[sui]]></y>
 				<p><![CDATA[s uei]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2654,10 +2774,10 @@
 				<y><![CDATA[yue]]></y>
 				<p><![CDATA[yE_r]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2679,10 +2799,10 @@
 				<y><![CDATA[shi]]></y>
 				<p><![CDATA[s` i`]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2698,10 +2818,10 @@
 				<y><![CDATA[fou]]></y>
 				<p><![CDATA[f @U]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2717,10 +2837,10 @@
 				<y><![CDATA[ji]]></y>
 				<p><![CDATA[ts\ i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2736,10 +2856,10 @@
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2755,10 +2875,10 @@
 				<y><![CDATA[shu]]></y>
 				<p><![CDATA[s` u]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2774,10 +2894,10 @@
 				<y><![CDATA[gan]]></y>
 				<p><![CDATA[k a_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2793,10 +2913,10 @@
 				<y><![CDATA[shang]]></y>
 				<p><![CDATA[s` AN]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2812,10 +2932,10 @@
 				<y><![CDATA[liu]]></y>
 				<p><![CDATA[l i@U]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2831,10 +2951,10 @@
 				<y><![CDATA[xia]]></y>
 				<p><![CDATA[s\ ia]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2850,10 +2970,10 @@
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2869,10 +2989,10 @@
 				<y><![CDATA[ke]]></y>
 				<p><![CDATA[k_h 7]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2888,10 +3008,10 @@
 				<y><![CDATA[hen]]></y>
 				<p><![CDATA[x @_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2907,10 +3027,10 @@
 				<y><![CDATA[hai]]></y>
 				<p><![CDATA[x aI]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2926,10 +3046,10 @@
 				<y><![CDATA[you]]></y>
 				<p><![CDATA[i@U]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2945,10 +3065,10 @@
 				<y><![CDATA[ni]]></y>
 				<p><![CDATA[n i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2964,10 +3084,10 @@
 				<y><![CDATA[yu]]></y>
 				<p><![CDATA[y]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -2983,10 +3103,10 @@
 				<y><![CDATA[wo]]></y>
 				<p><![CDATA[uo]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -3002,10 +3122,10 @@
 				<y><![CDATA[li]]></y>
 				<p><![CDATA[l i]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -3021,10 +3141,10 @@
 				<y><![CDATA[bie]]></y>
 				<p><![CDATA[p iE_r]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -3040,10 +3160,10 @@
 				<y><![CDATA[de]]></y>
 				<p><![CDATA[t 7]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -3059,10 +3179,10 @@
 				<y><![CDATA[na]]></y>
 				<p><![CDATA[n a]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -3078,10 +3198,10 @@
 				<y><![CDATA[ge]]></y>
 				<p><![CDATA[k 7]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -3097,10 +3217,10 @@
 				<y><![CDATA[chun]]></y>
 				<p><![CDATA[ts`_h u@_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
@@ -3116,10 +3236,10 @@
 				<y><![CDATA[tian]]></y>
 				<p><![CDATA[t_h iE_n]]></p>
 				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
+					<v id="accent">5</v>
+					<v id="bendDep">0</v>
 					<v id="bendLen">0</v>
-					<v id="decay">50</v>
+					<v id="decay">8</v>
 					<v id="fallPort">0</v>
 					<v id="opening">127</v>
 					<v id="risePort">0</v>
